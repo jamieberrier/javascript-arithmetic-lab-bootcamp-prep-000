@@ -19,3 +19,10 @@ function inc(n){
   n++;
   return n;
 }
+
+
+function dec(n){
+  parseInt(n, 10);
+  n--;
+  return n;
+}
